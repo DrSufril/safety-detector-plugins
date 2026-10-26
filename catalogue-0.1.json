@@ -39,6 +39,20 @@
       "url": "https://github.com/DrSufril/safety-detector-plugins/releases/download/cylinders-1.1.1/cylinders-1.1.1.tgz",
       "sha256": "aa3ad6117cf59ac699f770b8c7469352d0cbe7f0245dfa9aa1aeced4f29ad4dd",
       "size": 22076
+    },
+    {
+      "id": "helmet",
+      "name": "Helmets",
+      "version": "1.1.1",
+      "description": "Site safety — Helmets: whether each worker wears a safety helmet",
+      "publisher": "USM RCVIP",
+      "appMin": "0.1.0",
+      "requires": [
+        "posture"
+      ],
+      "url": "https://github.com/DrSufril/safety-detector-plugins/releases/download/helmet-1.1.1/helmet-1.1.1.tgz",
+      "sha256": "8f987d6469cf3feb249634473916c39782cb90207ca2c29bb462589bb15152b8",
+      "size": 20779
     }
   ]
 }
