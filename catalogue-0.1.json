@@ -25,6 +25,20 @@
       "url": "https://github.com/DrSufril/safety-detector-plugins/releases/download/hotwork-1.1.1/hotwork-1.1.1.tgz",
       "sha256": "966dada21c034d881469c21fe51f6b041674ee93220845c29e0a2785693a2b5c",
       "size": 117028
+    },
+    {
+      "id": "cylinders",
+      "name": "Cylinder distance",
+      "version": "1.1.1",
+      "description": "Site safety — Cylinder distance: gas cylinders and their distance to the hot work, against the 10 m rule",
+      "publisher": "USM RCVIP",
+      "appMin": "0.1.0",
+      "requires": [
+        "hotwork"
+      ],
+      "url": "https://github.com/DrSufril/safety-detector-plugins/releases/download/cylinders-1.1.1/cylinders-1.1.1.tgz",
+      "sha256": "aa3ad6117cf59ac699f770b8c7469352d0cbe7f0245dfa9aa1aeced4f29ad4dd",
+      "size": 22076
     }
   ]
 }
