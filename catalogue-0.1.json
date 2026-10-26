@@ -11,6 +11,20 @@
       "url": "https://github.com/DrSufril/safety-detector-plugins/releases/download/posture-1.1.1/posture-1.1.1.tgz",
       "sha256": "e2306f0555caf23214182b2e2c30bba499de709326ee5f29b3e7f63adccf842c",
       "size": 14425251
+    },
+    {
+      "id": "hotwork",
+      "name": "Hot work",
+      "version": "1.1.1",
+      "description": "Site safety — Hot work: finds hot work (welding, cutting, grinding) in a site photo",
+      "publisher": "USM RCVIP",
+      "appMin": "0.1.0",
+      "requires": [
+        "posture"
+      ],
+      "url": "https://github.com/DrSufril/safety-detector-plugins/releases/download/hotwork-1.1.1/hotwork-1.1.1.tgz",
+      "sha256": "966dada21c034d881469c21fe51f6b041674ee93220845c29e0a2785693a2b5c",
+      "size": 117028
     }
   ]
 }
