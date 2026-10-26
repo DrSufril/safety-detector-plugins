@@ -1,0 +1,16 @@
+{
+  "plugins": [
+    {
+      "id": "posture",
+      "name": "Posture",
+      "version": "1.1.1",
+      "description": "Site safety — Posture: each worker's posture and at-risk postures",
+      "publisher": "USM RCVIP",
+      "appMin": "0.1.0",
+      "requires": [],
+      "url": "https://github.com/DrSufril/safety-detector-plugins/releases/download/posture-1.1.1/posture-1.1.1.tgz",
+      "sha256": "e2306f0555caf23214182b2e2c30bba499de709326ee5f29b3e7f63adccf842c",
+      "size": 14425251
+    }
+  ]
+}
