@@ -3,28 +3,28 @@
     {
       "id": "posture",
       "name": "Posture",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "description": "Site safety — Posture: each worker's posture and at-risk postures",
       "publisher": "USM RCVIP",
       "appMin": "0.1.0",
       "requires": [],
-      "url": "https://github.com/DrSufril/safety-detector-plugins/releases/download/posture-1.1.1/posture-1.1.1.tgz",
-      "sha256": "e2306f0555caf23214182b2e2c30bba499de709326ee5f29b3e7f63adccf842c",
-      "size": 14425251
+      "url": "https://github.com/DrSufril/safety-detector-plugins/releases/download/posture-1.1.2/posture-1.1.2.tgz",
+      "sha256": "2c5a93da66830be64069b619adfd32bd17bff6a9167620158d6134b9742ec48c",
+      "size": 14422838
     },
     {
       "id": "hotwork",
       "name": "Hot work",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "description": "Site safety — Hot work: finds hot work (welding, cutting, grinding) in a site photo",
       "publisher": "USM RCVIP",
       "appMin": "0.1.0",
       "requires": [
         "posture"
       ],
-      "url": "https://github.com/DrSufril/safety-detector-plugins/releases/download/hotwork-1.1.1/hotwork-1.1.1.tgz",
-      "sha256": "966dada21c034d881469c21fe51f6b041674ee93220845c29e0a2785693a2b5c",
-      "size": 117028
+      "url": "https://github.com/DrSufril/safety-detector-plugins/releases/download/hotwork-1.1.2/hotwork-1.1.2.tgz",
+      "sha256": "417b987764864d28cd0e30e87c0410f014e5b66a3b16b03774451318a9b4d921",
+      "size": 118691
     },
     {
       "id": "cylinders",
