@@ -3,56 +3,56 @@
     {
       "id": "posture",
       "name": "Posture",
-      "version": "1.1.4",
+      "version": "1.1.5",
       "description": "Site safety — Posture: each worker's posture and at-risk postures",
-      "publisher": "USM RCVIP",
+      "publisher": "Fengjing Tech Plugins",
       "appMin": "0.1.0",
       "requires": [],
-      "url": "https://github.com/DrSufril/safety-detector-plugins/releases/download/posture-1.1.4/posture-1.1.4.tgz",
-      "sha256": "ed0d8e147d0127973b0cf4ddf1cc01c7bb2befad005bf69aa044e53d05ec1db2",
-      "size": 14423218
+      "url": "https://github.com/DrSufril/safety-detector-plugins/releases/download/posture-1.1.5/posture-1.1.5.tgz",
+      "sha256": "3c81b5a2800f57142a10c6400ef5048c572e6a2f9e594d1f6ae8ca6cc99fec0f",
+      "size": 14423191
     },
     {
       "id": "hotwork",
       "name": "Hot work",
-      "version": "1.1.5",
+      "version": "1.1.6",
       "description": "Site safety — Hot work: finds hot work (welding, cutting, grinding) in a site photo",
-      "publisher": "USM RCVIP",
+      "publisher": "Fengjing Tech Plugins",
       "appMin": "0.1.0",
       "requires": [
         "posture"
       ],
-      "url": "https://github.com/DrSufril/safety-detector-plugins/releases/download/hotwork-1.1.5/hotwork-1.1.5.tgz",
-      "sha256": "426ba0562500c24a86df963f12aaf05d2505af06269f6a2ff149d5a3d7e0a014",
-      "size": 120035
+      "url": "https://github.com/DrSufril/safety-detector-plugins/releases/download/hotwork-1.1.6/hotwork-1.1.6.tgz",
+      "sha256": "2b2e7dec9deb3d3bfd5af9ce17e94dab82e07b2b5934101e757699a4923a97d0",
+      "size": 120030
     },
     {
       "id": "cylinders",
       "name": "Cylinder distance",
-      "version": "1.1.4",
+      "version": "1.1.5",
       "description": "Site safety — Cylinder distance: gas cylinders and their distance to the hot work, against the 10 m rule",
-      "publisher": "USM RCVIP",
+      "publisher": "Fengjing Tech Plugins",
       "appMin": "0.1.0",
       "requires": [
         "hotwork"
       ],
-      "url": "https://github.com/DrSufril/safety-detector-plugins/releases/download/cylinders-1.1.4/cylinders-1.1.4.tgz",
-      "sha256": "70dbda8e16bf0808f23c1892a89481def4beb25c39182030608d9376109ef331",
-      "size": 22796
+      "url": "https://github.com/DrSufril/safety-detector-plugins/releases/download/cylinders-1.1.5/cylinders-1.1.5.tgz",
+      "sha256": "c5938891fa12a743ff06187684f16c78115d5df1f26d3de6bf68590866f82f5c",
+      "size": 22781
     },
     {
       "id": "helmet",
       "name": "Helmets",
-      "version": "1.1.4",
+      "version": "1.1.5",
       "description": "Site safety — Helmets: whether each worker wears a safety helmet",
-      "publisher": "USM RCVIP",
+      "publisher": "Fengjing Tech Plugins",
       "appMin": "0.1.0",
       "requires": [
         "posture"
       ],
-      "url": "https://github.com/DrSufril/safety-detector-plugins/releases/download/helmet-1.1.4/helmet-1.1.4.tgz",
-      "sha256": "bc9b1b5adc5bebed0a8260a10520c2a3975ff0f0c47cb261910a5feded25cf47",
-      "size": 21463
+      "url": "https://github.com/DrSufril/safety-detector-plugins/releases/download/helmet-1.1.5/helmet-1.1.5.tgz",
+      "sha256": "97e4d52f7f09c97a535f1b2865ff83e75decdb7617beaf3def54aa661493f180",
+      "size": 21474
     }
   ]
 }
