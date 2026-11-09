@@ -15,16 +15,16 @@
     {
       "id": "hotwork",
       "name": "Hot work",
-      "version": "1.1.6",
+      "version": "1.1.7",
       "description": "Site safety — Hot work: finds hot work (welding, cutting, grinding) in a site photo",
       "publisher": "Fengjing Tech Plugins",
       "appMin": "0.1.0",
       "requires": [
         "posture"
       ],
-      "url": "https://github.com/DrSufril/safety-detector-plugins/releases/download/hotwork-1.1.6/hotwork-1.1.6.tgz",
-      "sha256": "2b2e7dec9deb3d3bfd5af9ce17e94dab82e07b2b5934101e757699a4923a97d0",
-      "size": 120030
+      "url": "https://github.com/DrSufril/safety-detector-plugins/releases/download/hotwork-1.1.7/hotwork-1.1.7.tgz",
+      "sha256": "f4c50ca615f88a9e0d45495316e692ec6a37ec210cf44b425b759f1f643f58b6",
+      "size": 120962
     },
     {
       "id": "cylinders",
